@@ -1,6 +1,6 @@
-# Claude Code Git Commit 技能
+# git-commit
 
-中文 Git 提交规范，让 Claude Code 帮你按规范写提交信息和拆提交。
+中文 Git 提交规范 —— 逐文件暂存、原子拆分、说人话的提交信息。
 
 ## 干什么
 
@@ -12,20 +12,13 @@
 
 ## 为什么干
 
-大多数 AI 提交工具就是 `git add -A && git commit -m "update"` 一把梭，出来的历史没法看。这个 skill 把人工提交的规范编码给 Claude 执行，提交信息说人话、一个 commit 一件事、改前先看、改完检查。
+大多数 AI 提交工具就是 `git add -A && git commit -m "update"` 一把梭，出来的历史没法看。这个把人工提交的规范编码好，提交信息说人话、一个 commit 一件事、改前先看、改完检查。
 
 ## 安装
 
 ```bash
-git clone https://github.com/huzhw/claude-git-commit-skill.git ~/.claude/skills/git-commit
+git clone https://github.com/huzhw/git-commit-skill.git ~/.claude/skills/git-commit
 ```
-
-装完在 Claude Code 里说「提交代码」「推送」「commit」即可触发。
-
-## 依赖
-
-- Claude Code CLI
-- Git
 
 ## 许可
 
