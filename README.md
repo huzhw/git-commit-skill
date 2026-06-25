@@ -119,3 +119,7 @@ git clone https://github.com/huzhw/git-commit-skill.git ~/.claude/skills/git-com
 ## 许可
 
 MIT
+ 
+## 相关项目
+
+- [coding-rules](https://github.com/huzhw/coding-rules) — AI 编码协作规范，同系列
