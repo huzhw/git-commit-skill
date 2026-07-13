@@ -3,10 +3,10 @@
 把 Git 最佳实践编码为可复用的提交流程，告别 `git add -A && git commit -m "update"` 一把梭。
 
 ## 参见
-- [[coding-rules]]：AI 编码协作规范
-- [[reread-claude-md]]：重新加载 CLAUDE.md 规则
-- [[daily-record]]：日报记录
-- [[daily-merge]]：日报合并
+- [coding-rules](https://github.com/huzhw/coding-rules)：AI 编码协作规范
+- [reread-claude-md](https://github.com/huzhw/reread-claude-md-skill)：重新加载 CLAUDE.md 规则
+- [daily-record](https://github.com/huzhw/daily-record-skill)：日报记录
+- [daily-merge](https://github.com/huzhw/daily-merge-skill)：日报合并
 
 ---
 
