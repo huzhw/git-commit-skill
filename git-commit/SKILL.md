@@ -121,3 +121,9 @@ git push origin <分支名>
 ---
 
 > 🐧 Linus 创造了 Git，但没教你怎么用。这份 skill 补上。
+
+## 参见
+- [[coding-rules]]：AI 编码协作规范
+- [[reread-claude-md]]：重新加载 CLAUDE.md 规则
+- [[daily-record]]：日报记录
+- [[daily-merge]]：日报合并

@@ -2,6 +2,14 @@
 
 把 Git 最佳实践编码为可复用的提交流程，告别 `git add -A && git commit -m "update"` 一把梭。
 
+## 参见
+- [[coding-rules]]：AI 编码协作规范
+- [[reread-claude-md]]：重新加载 CLAUDE.md 规则
+- [[daily-record]]：日报记录
+- [[daily-merge]]：日报合并
+
+---
+
 ## 解决了什么问题
 
 **AI 写代码很快，提交信息却很烂。** 常见的自动化提交工具就是全部暂存、信息敷衍、不拆分，出来的 Git 历史完全没法看 —— 回滚找不到 commit、blame 看不懂原因、review 不知道改了什么。
