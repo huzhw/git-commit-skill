@@ -2,7 +2,7 @@
 
 把 Git 最佳实践编码为可复用的提交流程，告别 `git add -A && git commit -m "update"` 一把梭。
 
-## 参见
+## 相关技能
 - [coding-rules](https://github.com/huzhw/coding-rules)：AI 编码协作规范
 - [reread-claude-md](https://github.com/huzhw/reread-claude-md-skill)：重新加载 CLAUDE.md 规则
 - [daily-record](https://github.com/huzhw/daily-record-skill)：日报记录
@@ -127,9 +127,3 @@ git clone https://github.com/huzhw/git-commit-skill.git ~/.claude/skills/git-com
 ## 许可
 
 MIT
- 
-## 相关项目
-
-- [coding-rules](https://github.com/huzhw/coding-rules) — AI 编码协作规范，同系列
-- [daily-record](https://github.com/huzhw/daily-record-skill) — 日报需求记录 + 工时评估
-- [daily-merge](https://github.com/huzhw/daily-merge-skill) — 日报 Excel 合并
