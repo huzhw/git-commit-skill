@@ -7,6 +7,7 @@
 - [reread-claude-md](https://github.com/huzhw/reread-claude-md-skill)：重新加载 CLAUDE.md 规则
 - [daily-record](https://github.com/huzhw/daily-record-skill)：日报记录
 - [daily-merge](https://github.com/huzhw/daily-merge-skill)：日报合并
+- [token-3000](https://github.com/huzhw/token-3000-skill)：API 一键切换（公司免费 ↔ 自己花钱）
 
 ---
 
