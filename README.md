@@ -125,6 +125,15 @@ git clone https://github.com/huzhw/git-commit-skill.git ~/.claude/skills/git-com
 
 安装后在 AI 编码助手里说「提交代码」即可触发完整流程。
 
+## 相关仓库
+
+- [coding-rules](https://github.com/huzhw/coding-rules) — AI 编码协作规范
+- [daily-record](https://github.com/huzhw/daily-record-skill) — 日报需求记录
+- [daily-merge](https://github.com/huzhw/daily-merge-skill) — 日报 Excel 合并
+- [reread-claude-md](https://github.com/huzhw/reread-claude-md-skill) — CLAUDE.md 规则重载
+- [token-3000](https://github.com/huzhw/token-3000-skill) — API Token 一键切换
+- [service-manager](https://github.com/huzhw/service-manager) — 桌面服务管理工具
+
 ## 许可
 
 MIT
