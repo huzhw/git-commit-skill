@@ -7,6 +7,9 @@
 | 项 | 路径 |
 |----|------|
 | 全局路径（junction） | `C:\Users\Administrator\.claude\skills\git-commit` |
+| 全局路径（junction，DSH） | `C:\Users\Administrator\.dsh\skills\git-commit` |
+| 全局路径（junction，Codex） | `C:\Users\Administrator\.codex\skills\git-commit` |
+| 全局路径（junction，Zcode） | `C:\Users\Administrator\.zcode\skills\git-commit` |
 | 实际目录（F 仓库） | `F:\idea-workspase-skills\claude-git-commit-skill\git-commit` |
 | 创建日期 | 2026-08-02 |
 
@@ -21,6 +24,9 @@
 
 ```bash
 cmd /c dir "C:\Users\Administrator\.claude\skills" | findstr git-commit
+cmd /c dir "C:\Users\Administrator\.dsh\skills" | findstr git-commit
+cmd /c dir "C:\Users\Administrator\.codex\skills" | findstr git-commit
+cmd /c dir "C:\Users\Administrator\.zcode\skills" | findstr git-commit
 ```
 
 正常应显示 `<JUNCTION>  ...  git-commit`。
@@ -29,6 +35,9 @@ cmd /c dir "C:\Users\Administrator\.claude\skills" | findstr git-commit
 
 ```bat
 rd "C:\Users\Administrator\.claude\skills\git-commit"
+rd "C:\Users\Administrator\.dsh\skills\git-commit"
+rd "C:\Users\Administrator\.codex\skills\git-commit"
+rd "C:\Users\Administrator\.zcode\skills\git-commit"
 xcopy "F:\idea-workspase-skills\_skills_backup_20260802\git-commit" "C:\Users\Administrator\.claude\skills\git-commit" /E /I /Y
 ```
 
