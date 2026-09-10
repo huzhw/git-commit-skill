@@ -7,7 +7,6 @@
 - [reread-rules](https://github.com/huzhw/reread-rules-skill)：重载 CLAUDE.md / AGENTS.md 规则
 - [daily-record-gitlab-md](https://github.com/huzhw/daily-record-gitlab-md-skill)：日报记录
 - [daily-merge-gitlab-excel](https://github.com/huzhw/daily-merge-gitlab-excel-skill)：日报合并
-- [claude-code-token-3000](https://github.com/huzhw/claude-code-token-3000-skill)：API 一键切换（公司免费 ↔ 自己花钱）
 - [service-manager](https://github.com/huzhw/service-manager)：桌面服务管理工具
 - [code-check](https://github.com/huzhw/code-check-skill)：增量代码隐患检查
 - [deepseek-harness-settings-curator](https://github.com/huzhw/deepseek-harness-settings-curator)：DSH 模型配置梳理
