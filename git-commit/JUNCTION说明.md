@@ -7,7 +7,7 @@
 | 项 | 路径 |
 |----|------|
 | 全局路径（junction） | `C:\Users\Administrator\.claude\skills\git-commit` |
-| 全局路径（junction，DSH） | `C:\Users\Administrator\.dsh\skills\git-commit` |
+| 全局路径（junction，DeepSeek Harness） | `C:\Users\Administrator\.dsh\skills\git-commit` |
 | 全局路径（junction，Codex） | `C:\Users\Administrator\.codex\skills\git-commit` |
 | 全局路径（junction，Zcode） | `C:\Users\Administrator\.zcode\skills\git-commit` |
 | 全局路径（junction，Qoder CN） | `C:\Users\Administrator\.qoder-cn\skills\git-commit` |
